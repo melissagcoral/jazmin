@@ -3,7 +3,7 @@
 Landing page estática creada para la invitación digital del cumpleaños de Paula.
 
 ## ✨ Características
-- Diseño infantil con estética rosa y estilo cuento
+- Diseño infantil con estética rosa 
 - Frontend 100% estático (HTML, CSS y JavaScript)
 - Música de fondo interactiva (se reproduce al tocar el número 5)
 - Cuenta regresiva al evento
