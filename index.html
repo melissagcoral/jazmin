@@ -404,9 +404,12 @@
     </div>
 
     <!-- Música -->
-    <audio id="bgMusic" loop>
-        <source src="https://www.bensound.com/bensound-music/bensound-ukulele.mp3" type="audio/mpeg">
+    <audio id="bgMusic" loop preload="auto">
+        <source src="assets/music.mp3" type="audio/mpeg">
     </audio>
+    <!-- <audio id="bgMusic" loop>
+        <source src="https://www.bensound.com/bensound-music/bensound-ukulele.mp3" type="audio/mpeg">
+    </audio> -->
 
     <script>
         const eventDate = new Date("Jan 21, 2026 16:00:00").getTime();
