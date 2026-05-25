@@ -1,6 +1,6 @@
-# 🎀 Invitación Cumpleaños Paula – 5 Años
+# 🎀 Invitación Cumpleaños Jazmin – 6 Años
 
-Landing page estática creada para la invitación digital del cumpleaños de Paula.
+Landing page estática creada para la invitación digital del cumpleaños de Jazmin.
 
 ## ✨ Características
 - Diseño infantil con estética rosa 
@@ -14,7 +14,7 @@ Landing page estática creada para la invitación digital del cumpleaños de Pau
 ## 🚀 Publicación
 El sitio está publicado mediante **GitHub Pages** y es accesible desde cualquier dispositivo:
 
-👉 https://melissagcoral.github.io/paula/
+👉 https://melissagcoral.github.io/jazmin/
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
