@@ -5,7 +5,7 @@ Landing page estática creada para la invitación digital del cumpleaños de Jaz
 ## ✨ Características
 - Diseño infantil con estética rosa 
 - Frontend 100% estático (HTML, CSS y JavaScript)
-- Música de fondo interactiva (se reproduce al tocar el número 5)
+- Música de fondo interactiva (se reproduce al tocar la imagen)
 - Cuenta regresiva al evento
 - Mapa embebido de Google Maps
 - Botón de confirmación por WhatsApp
